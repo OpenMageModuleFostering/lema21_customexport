@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Lema21_CustomExport",
+    "name": "OpenMageModuleFostering\/Lema21_CustomExport",
     "type": "magento-module",
     "license": "GNU-General-Public-License-(GPL)",
     "homepage": "",
     "description": "Module to export sales in Magento to custom CSV",
     "authors": [
-    {
-        "name": "Marcelo Linhares",
-        "email": "marcelolinhares@gmail.com"
-    }
-],
+        {
+            "name": "Marcelo Linhares",
+            "email": "marcelolinhares@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
